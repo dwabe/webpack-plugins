@@ -1,27 +1,22 @@
 {
   "name": "20-6-webpack-plugins",
   "version": "1.0.0",
-  "description": "webpack with react",
-  "main": "src/index.js",
+  "description": "webpack plugins",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --mode development",
     "build": "webpack --env production"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dwabe/20-4-webpack-react.git"
+    "url": "git+https://github.com/dwabe/20-6-webpack-plugins.git"
   },
-  "keywords": [
-    "webpack",
-    "react"
-  ],
   "author": "bebe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dwabe/20-4-webpack-react/issues"
+    "url": "https://github.com/dwabe/20-6-webpack-plugins/issues"
   },
-  "homepage": "https://github.com/dwabe/20-4-webpack-react#readme",
+  "homepage": "https://github.com/dwabe/20-6-webpack-plugins#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
