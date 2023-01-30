@@ -22,7 +22,7 @@
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "css-loader": "^1.0.0",
+    "css-loader": "^6.7.3",
     "html-webpack-plugin": "^5.5.0",
     "optimize-js-plugin": "0.0.4",
     "react": "^16.4.2",
